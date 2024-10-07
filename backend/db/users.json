@@ -1,0 +1,32 @@
+[
+  {
+    "email": "test@test.com",
+    "password": "123123",
+    "id": "UYz_2Vy9rNw7uELQ7AZ8D"
+  },
+  {
+    "email": "fulano@gmail.com",
+    "password": "123456",
+    "id": "CanyPBJcNlneEsHk5-RVZ"
+  },
+  {
+    "email": "bernardogaetecancino@gmail.com",
+    "password": "123456",
+    "id": "VtGNxVot0-2iBpbKqofJ5"
+  },
+  {
+    "email": "hola@gmail.com",
+    "password": "123456",
+    "id": "8RBzQ9YZaBJihmCwA6FfK"
+  },
+  {
+    "email": "gcorripio@gmail.com",
+    "password": "123456",
+    "id": "uHT6I_Ipx0_UaCfGlJpZu"
+  },
+  {
+    "email": "jaja@gmail.com",
+    "password": "asdfgh",
+    "id": "A5FDNTe5yi59phdYkamot"
+  }
+]
