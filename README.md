@@ -1,4 +1,4 @@
-﻿# 07_desafio_react
+﻿# 08_desafio_react
 # React + Vite
 
 
@@ -14,4 +14,5 @@
 <hr>
 -4.- Se levanta el proyecto para consumir la API de pizzas
 
-atte [Bernardo Gaete]
+atte 
+[Bernardo Gaete]
